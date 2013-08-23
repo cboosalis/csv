@@ -1,0 +1,23 @@
+SID,FN1,LN1,Sex,CELDT,Program,PreFlu,PostFlu,Fluency,Likes2Read,GPA,VerbalScore
+10001,Lee  ,Cerrin,M,High,Choral,7,12.9,5.9,Yes,1,222
+10002,Shanon  ,Kottke  ,F,High,Choral,12,17.8,5.8,No,3.5,490
+10003,Mike,Nicholas,M,High,Choral,12,18.4,6.4,No,2.3,301
+10004,Maggi,Kimothy,F,High,Choral,7,13.8,6.8,Yes,3.2,415
+10005,Lucas  ,Kingston,M,High,Choral,11,17.9,6.9,No,3.8,491
+10006,Brigette  ,Ceci,F,Low,Choral,15,24.8,9.8,Yes,4,500
+10007,Chris,Sommers  ,M,Low,Choral,12,24.7,12.7,No,3,350
+10008,Berneice  ,Genny,F,Low,Choral,10,24.4,14.4,Yes,3.1,402
+10009,Bruce  ,Conerly  ,M,Low,Choral,5,16.6,11.6,No,2,270
+10010,Jaymie  ,Denis,F,Low,Choral,17,25.3,8.3,Yes,3.8,489
+10011,Ike,Dare  ,M,Low,Choral,5,16,11,Yes,3.8,491
+10012,Bessie,Sybyl,F,High,Independent,5,22.4,17.4,No,3.2,415
+10013,Garry  ,Doucet  ,M,High,Independent,14,35.5,21.5,Yes,2.3,305
+10014,Alesia  ,Holly,F,High,Independent,17,40.6,23.6,Yes,1.1,202
+10015,Gabo,Eckart  ,M,High,Independent,13,34.9,21.9,No,3.3,428
+10016,Joselyn  ,Duerr  ,F,High,Independent,11,31.5,20.5,Yes,3.4,420
+10017,Max  ,Tse  ,M,Low,Independent,18,28.9,10.9,No,1.3,250
+10018,Dawna  ,Lemos  ,F,Low,Independent,12,16.2,4.2,No,2.5,310
+10019,Mitlon,Christan ,M,Low,Independent,13,22.4,9.4,Yes,1.8,203
+10020,Kimberlie  ,Cowherd  ,F,Low,Independent,12,22,10,No,3.1,289
+10021,Mel,Johnson,M,Low,Independent,12,21.2,9.2,Yes,2.5,315
+10022,May,Meyers,F,Low,Independent,16,26.1,10.1,No,1,199
