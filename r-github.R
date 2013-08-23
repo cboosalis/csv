@@ -1,4 +1,5 @@
-datafilename="https://github.com/cboosalis/csv/blob/master/COMPLETE-FILE.csv"fluency1=read.csv(datafilename,header=T)
+datafilename="https://github.com/cboosalis/csv/blob/master/COMPLETE-FILE.csv"
+fluency1=read.csv(datafilename,header=T)
 attach(fluency1)
 aov1 = aov(Fluency~Program,data=fluency1) 
 summary(aov1)
