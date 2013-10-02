@@ -11,3 +11,4 @@ aov2 = aov(Fluency~Program*CELDT,data=fluency1)
 )summary(aov2)            #show the summary table
 print(model.tables(aov2,"means"),digits=3)
 boxplot(Fluency~Program*CELDT,data=fluency1)
+title("Greater fluency gains depend on CELDT status and reading program.")
